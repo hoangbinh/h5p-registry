@@ -301,7 +301,7 @@
     "title": "Course Presentation",
     "repo": {
       "type": "github",
-      "url": "https://github.com/h5p/h5p-course-presentation"
+      "url": "https://github.com/hoangbinh/h5p-course-presentation"
     },
     "resume": false,
     "fullscreen": true,
@@ -421,7 +421,7 @@
     "title": "Drag and Drop",
     "repo": {
       "type": "github",
-      "url": "https://github.com/h5p/h5p-drag-question"
+      "url": "https://github.com/hoangbinh/h5p-drag-question"
     },
     "resume": false,
     "fullscreen": false,
@@ -541,7 +541,7 @@
     "title": "Course Presentation Editor",
     "repo": {
       "type": "github",
-      "url": "https://github.com/h5p/h5p-editor-course-presentation"
+      "url": "https://github.com/hoangbinh/h5p-editor-course-presentation"
     },
     "resume": false,
     "fullscreen": false,
@@ -556,7 +556,7 @@
     "title": "Drag Question Editor",
     "repo": {
       "type": "github",
-      "url": "https://github.com/h5p/h5p-editor-drag-question"
+      "url": "https://github.com/hoangbinh/h5p-editor-drag-question"
     },
     "resume": false,
     "fullscreen": false,
@@ -1276,7 +1276,7 @@
     "title": "Multiple Choice",
     "repo": {
       "type": "github",
-      "url": "https://github.com/h5p/h5p-multi-choice"
+      "url": "https://github.com/hoangbinh/h5p-multi-choice"
     },
     "resume": false,
     "fullscreen": false,
@@ -1441,7 +1441,7 @@
     "title": "Speak the Words",
     "repo": {
       "type": "github",
-      "url": "https://github.com/h5p/h5p-speak-the-words"
+      "url": "https://github.com/hoangbinh/h5p-speak-the-words"
     },
     "resume": false,
     "fullscreen": false,
@@ -1456,7 +1456,7 @@
     "title": "Speak the Words Set",
     "repo": {
       "type": "github",
-      "url": "https://github.com/h5p/h5p-speak-the-words-set"
+      "url": "https://github.com/hoangbinh/h5p-speak-the-words-set"
     },
     "resume": false,
     "fullscreen": false,
@@ -2016,6 +2016,21 @@
     "resume": false,
     "fullscreen": false,
     "author": "Oliver Tacke",
+    "runnable": true,
+    "xapiVerbs": [
+      "attempted"
+    ]
+  },
+  "H5P.TextToSpeech": {
+    "id": "H5P.TextToSpeech",
+    "title": "Text To Speech",
+    "repo": {
+      "type": "github",
+      "url": "https://github.com/hoangbinh/h5p-text-to-speech"
+    },
+    "resume": false,
+    "fullscreen": false,
+    "author": "Binh Hoang",
     "runnable": true,
     "xapiVerbs": [
       "attempted"
